@@ -1,5 +1,5 @@
 ## Bio
-
+Chemist from Colorado, specializing in Analytical and Environmental Chemistry. 
 ---
 ### Education
 
@@ -7,18 +7,19 @@
 2. M.Sc Chemistry, University of California San Diego
 
 [Picture of bird](/sample_page)
-<img src="images/IMG_3089.jpg?raw=true"/>
+<img src="/images/IMG_3089.jpg?raw=true"/>
 
 ---
 ### Work Experience
 
 1. Research Fellow, U.S. EPA
+2. Tutor, Varsity Tutors
 
 ---
-### Recent Projects
+### Recent Publications
 
-
-- [Test Presentation]("images/TEST.pdf")
+- [pH Dependence of the Aqueous Photochemistry of α-Keto Acids](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.7b08192)
+- [Environmental Processing of Lipids Driven by Aqueous Photochemistry of α-Keto Acids](https://pubs.acs.org/doi/abs/10.1021/acscentsci.8b00124)
 
 ---
 
