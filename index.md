@@ -4,17 +4,17 @@ Chemist from Colorado, specializing in Analytical and Environmental Chemistry.
 
 ### Education
 
-1. B.A Chemistry, University of Colorado Boulder
-2. M.Sc Chemistry, University of California San Diego
+1. B.A Chemistry, University of Colorado Boulder 2017
+2. M.Sc Chemistry, University of California San Diego 2019
 
-[Picture of bird](/sample_page)
-<img src="/images/IMG_3089.JPG.jpg?raw=true"/>
+### Picture of bird
+bird: "/images/IMG_3089.JPG.jpg?raw=true"
 
 ---
 ### Work Experience
 
 1. Research Fellow, U.S. EPA
-2. Tutor, Varsity Tutors
+2. Research Fellow, University of Colorado Boulder
 
 ---
 ### Recent Publications
