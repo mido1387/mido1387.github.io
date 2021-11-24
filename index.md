@@ -8,7 +8,7 @@ Chemist from Colorado, specializing in Analytical and Environmental Chemistry.
 2. M.Sc Chemistry, University of California San Diego 2019
 
 ### Picture of bird
-bird: "/images/IMG_3089.JPG.jpg?raw=true"
+"/images/IMG_3089.jpg?raw=true"
 
 ---
 ### Work Experience
