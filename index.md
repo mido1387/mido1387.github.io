@@ -1,13 +1,14 @@
 ## Bio
+
 Chemist from Colorado, specializing in Analytical and Environmental Chemistry. 
----
+
 ### Education
 
 1. B.A Chemistry, University of Colorado Boulder
 2. M.Sc Chemistry, University of California San Diego
 
 [Picture of bird](/sample_page)
-<img src="/images/IMG_3089.jpg?raw=true"/>
+<img src="/images/IMG_3089.JPG.jpg?raw=true"/>
 
 ---
 ### Work Experience
