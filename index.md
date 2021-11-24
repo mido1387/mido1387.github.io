@@ -7,7 +7,7 @@
 2. M.Sc Chemistry, University of California San Diego
 
 [Picture of bird](/sample_page)
-<img src="/c/Users/micha/Desktop/sick pics/IMG_3089.jpg?raw=true"/>
+<img src="images/IMG_3089.jpg?raw=true"/>
 
 ---
 ### Work Experience
@@ -18,7 +18,7 @@
 ### Recent Projects
 
 
-- [Test Presentation]("/c/Users/micha/Desktop/CSC 593/TEST.pdf")
+- [Test Presentation]("images/TEST.pdf")
 
 ---
 
