@@ -14,6 +14,10 @@ Chemist from Colorado, specializing in Analytical and Environmental Chemistry.
 2. Research Fellow, University of Colorado Boulder
 
 ---
+### Ongoing Projects
+
+- [Spectrophotometric pH determination with mCP dye calculation package](https://github.com/mido1387/mCPdyepH)
+---
 ### Recent Publications
 
 - [pH Dependence of the Aqueous Photochemistry of α-Keto Acids](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.7b08192)
