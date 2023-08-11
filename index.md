@@ -7,6 +7,7 @@ Chemist from Colorado, specializing in Computational, Analytical and Atmospheric
 1. B.A Chemistry, University of Colorado Boulder (2017)
 2. M.Sc Chemistry, University of California San Diego (2019)
 3. PhD Applied Chemistry, Colorado School of Mines (In Progress)
+
 ---
 ### Work Experience
 
@@ -18,6 +19,7 @@ Chemist from Colorado, specializing in Computational, Analytical and Atmospheric
 
 - Fate, transport, and degradation of PFAS studies
 - [Spectrophotometric pH determination with mCP dye calculation package](https://github.com/mido1387/mCPdyepH)
+
 ---
 ### Recent Publications
 
