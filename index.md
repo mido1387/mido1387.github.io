@@ -1,21 +1,18 @@
 ## Bio
-
-Chemist from Colorado, specializing in Analytical and Environmental Chemistry. 
+Chemist from Colorado, specializing in Computational, Analytical and Atmospheric Chemistry. 
 
 ### Education
-
-1. B.A Chemistry, University of Colorado Boulder 2017
-2. M.Sc Chemistry, University of California San Diego 2019
-
+1. B.A Chemistry, University of Colorado Boulder (2017)
+2. M.Sc Chemistry, University of California San Diego (2019)
+3. PhD Applied Chemistry, Colorado School of Mines (In Progress)
 ---
 ### Work Experience
-
 1. Research Fellow, U.S. EPA
 2. Research Fellow, University of Colorado Boulder
 
 ---
 ### Ongoing Projects
-
+- Fate, transport, and degradation of PFAS studies
 - [Spectrophotometric pH determination with mCP dye calculation package](https://github.com/mido1387/mCPdyepH)
 ---
 ### Recent Publications
